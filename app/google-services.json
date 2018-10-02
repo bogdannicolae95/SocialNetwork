@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "551199582524",
+    "firebase_url": "https://socialnetwork-2c078.firebaseio.com",
+    "project_id": "socialnetwork-2c078",
+    "storage_bucket": "socialnetwork-2c078.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551199582524:android:a488dd09b48a1a41",
+        "android_client_info": {
+          "package_name": "com.example.nicolaebogdan.socialnetwork"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "551199582524-he3c8i617bceas3d1jn1l9gu4m1f75hp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nicolaebogdan.socialnetwork",
+            "certificate_hash": "ca77ef2ee0375ad64afd008aa29647a5437b7d84"
+          }
+        },
+        {
+          "client_id": "551199582524-b9tbbm22pa127gtnrlbe7n6hmftegq07.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0KVdokhHMsJZ2kKjL3Ov8uB6wFWTitHE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "551199582524-b9tbbm22pa127gtnrlbe7n6hmftegq07.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
